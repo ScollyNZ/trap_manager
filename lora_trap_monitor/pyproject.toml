@@ -1,0 +1,11 @@
+[project]
+name = "lora-trap-monitor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "platformio>=6.1.18",
+    "requests>=2.32.5",
+    "scons>=4.9.1",
+]

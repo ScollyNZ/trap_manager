@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../udemy/agents"
+		}
+	],
+	"settings": {
+		"python.venvPath": "/Users/simonscoltock/projects/ai/trap_manager"
+	}
+}

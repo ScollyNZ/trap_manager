@@ -1,0 +1,24 @@
+{'ok': True, 'oldest': '1754807313.062244', 'messages': [
+        {'user': 'U099QRWEPN2', 'type': 'message', 'ts': '1754808091.594109', 'client_msg_id': '427b63f6-0376-493c-90d1-f2328d78d25a', 'text': 'another new message', 'team': 'T099QRWEP2A', 'blocks': [
+                {'type': 'rich_text', 'block_id': 'ZjqG1', 'elements': [
+                        {'type': 'rich_text_section', 'elements': [
+                                {'type': 'text', 'text': 'another new message'
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {'user': 'U099QRWEPN2', 'type': 'message', 'ts': '1754807957.271099', 'client_msg_id': '5536d17b-b1e0-472e-a9fe-3070390062b3', 'text': 'new message', 'team': 'T099QRWEP2A', 'blocks': [
+                {'type': 'rich_text', 'block_id': 'eoYsI', 'elements': [
+                        {'type': 'rich_text_section', 'elements': [
+                                {'type': 'text', 'text': 'new message'
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {'user': 'U09A3A8L7Q9', 'type': 'message', 'ts': '1754807313.622439', 'bot_id': 'B09A3A8L5R7', 'app_id': 'A099C0HGGGP', 'text': 'Hello from Python!', 'team': 'T099QRWEP2A', 'bot_profile': {'id': 'B09A3A8L5R7', 'deleted': False, 'name': 'Trap Manager', 'updated': 1754803050, 'app_id': 'A099C0HGGGP', 'user_id': 'U09A3A8L7Q9', 'icons': {'image_36': 'https: //a.slack-edge.com/80588/img/plugins/app/bot_36.png', 'image_48': 'https://a.slack-edge.com/80588/img/plugins/app/bot_48.png', 'image_72': 'https://a.slack-edge.com/80588/img/plugins/app/service_72.png'}, 'team_id': 'T099QRWEP2A'}, 'blocks': [{'type': 'rich_text', 'block_id': 'UEtco', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Hello from Python!'}]}]}]}], 'has_more': False, 'pin_count': 0, 'channel_actions_ts': None, 'channel_actions_count': 0}

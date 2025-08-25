@@ -1,0 +1,29 @@
+# Trap.NZ API Configuration
+# Copy this file to .env and fill in your actual values
+
+# Slack Configuration (if using Slack integration)
+SLACK_BOT_TOKEN=xoxb-your-bot-token-here
+SLACK_APP_TOKEN=xapp-your-app-token-here
+
+# Test Mode Configuration
+# Set to "true" to enable test mode (uses canned data instead of real API calls)
+# Set to "false" or omit to use real Trap.NZ API
+TEST_MODE=false
+
+# Database Configuration
+# Optional: Override default database path
+# TRAPNZ_DB_PATH=custom_trapnz.db
+
+# API Configuration
+# Optional: Override default API base URL
+# TRAPNZ_API_BASE_URL=https://api2.trap.nz
+
+# Logging Configuration
+# Optional: Set log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+# LOG_LEVEL=INFO
+
+# Optional: Set log file path
+# LOG_FILE=trapnz.log
+
+# Optional: Enable/disable console output
+# LOG_CONSOLE=true
